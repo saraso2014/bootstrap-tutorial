@@ -33,7 +33,22 @@ bootstrap/
     ├── bootstrap.min.js
     └── bootstrap.min.js.map
 
+Talk:
+
+- What is html
+- what is css
+- what is js
+- what is bootstrap (combo js and css package)
+- how to read someones site for info (inspect)
+- download theme
+- how to edit site in text editor and check changes online
+- responsive design
+- high res images
+- use REM, not px
+- comment out, don't delete html until you know how it will appear
+
 links: 
 
 - https://getbootstrap.com/docs/4.4/getting-started/introduction/
 - https://startbootstrap.com/
+- https://anapetron.github.io/
